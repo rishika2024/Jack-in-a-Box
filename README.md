@@ -5,13 +5,13 @@
 
 ## Outer Box Frames
 
-{{<img src="Box Frame.png" alt="Box Frames" width="65%" >}}
+<img src="Box Frame.png" alt="Box Frames" >
 
 The frame of the center of the outer box is obtained by translating the world frame to the center of mass and then rotating it by the box orientation.
 
 ## Jack Frames
 
-{{<img src="Jack Frame.png" alt="Jack Frames" >}}
+<img src="Jack Frame.png" alt="Jack Frames" >
 
 The frame of the center of the jack is found by translating the world frame to the jack’s center and then rotating it by the jack’s orientation. The jack frame is perpendicular to the jack arms.
 
